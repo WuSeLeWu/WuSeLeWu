@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WuSeLeWu/WuSeLeWu/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/WuSeLeWu/WuSeLeWu/output/snake.svg](https://github.com/WuSeLeWu/WuSeLeWu/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
 
